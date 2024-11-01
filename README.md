@@ -1,6 +1,7 @@
 JDK 环境变量
 
 JDK 下载地址 https://bell-sw.com/pages/downloads/#mn
+
 下载zip解压到当目录
 
 JAVA_HOME D:\GitHub\Environment\jdk17
